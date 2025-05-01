@@ -28,7 +28,7 @@
 
 [![API docs](img/login.png)](https://github.com/fastapi/full-stack-fastapi-template)
 
-### Dashboard - Admin
+## Dashboard - Admin
 
 [![API docs](img/dashboard.png)](https://github.com/fastapi/full-stack-fastapi-template)
 
